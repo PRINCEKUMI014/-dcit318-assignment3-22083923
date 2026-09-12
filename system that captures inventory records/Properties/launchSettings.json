@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "system that captures inventory records": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

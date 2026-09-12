@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.AssemblyInfo.cs
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\system that captures inventory records\bin\Debug\net10.0\system that captures inventory records.exe
+C:\Users\Dell\source\repos\system that captures inventory records\bin\Debug\net10.0\system that captures inventory records.deps.json
+C:\Users\Dell\source\repos\system that captures inventory records\bin\Debug\net10.0\system that captures inventory records.runtimeconfig.json
+C:\Users\Dell\source\repos\system that captures inventory records\bin\Debug\net10.0\system that captures inventory records.dll
+C:\Users\Dell\source\repos\system that captures inventory records\bin\Debug\net10.0\system that captures inventory records.pdb
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.dll
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\refint\system that captures inventory records.dll
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.pdb
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\system that captures inventory records.genruntimeconfig.cache
+C:\Users\Dell\source\repos\system that captures inventory records\obj\Debug\net10.0\ref\system that captures inventory records.dll

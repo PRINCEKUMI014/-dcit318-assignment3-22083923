@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Keyboard",
+    "Quantity": 10,
+    "DateAdded": "2026-09-12T19:16:29.4822224Z"
+  },
+  {
+    "Id": 2,
+    "Name": "Monitor",
+    "Quantity": 5,
+    "DateAdded": "2026-09-12T19:06:29.4827393Z"
+  },
+  {
+    "Id": 3,
+    "Name": "Mouse",
+    "Quantity": 25,
+    "DateAdded": "2026-09-12T17:16:29.4827528Z"
+  },
+  {
+    "Id": 4,
+    "Name": "Webcam",
+    "Quantity": 7,
+    "DateAdded": "2026-09-11T19:16:29.4827542Z"
+  },
+  {
+    "Id": 5,
+    "Name": "Headset",
+    "Quantity": 12,
+    "DateAdded": "2026-09-09T19:16:29.4827554Z"
+  }
+]
