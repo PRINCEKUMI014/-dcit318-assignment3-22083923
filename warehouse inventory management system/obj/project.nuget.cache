@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqUbbuRlEYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\warehouse inventory management system\\warehouse inventory management system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
