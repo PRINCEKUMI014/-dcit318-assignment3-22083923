@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ji8j4mQ3vLI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\healthcare system\\healthcare system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

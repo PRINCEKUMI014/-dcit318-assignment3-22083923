@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\healthcare system\bin\Debug\net10.0\healthcare system.exe
+C:\Users\Dell\source\repos\healthcare system\bin\Debug\net10.0\healthcare system.deps.json
+C:\Users\Dell\source\repos\healthcare system\bin\Debug\net10.0\healthcare system.runtimeconfig.json
+C:\Users\Dell\source\repos\healthcare system\bin\Debug\net10.0\healthcare system.dll
+C:\Users\Dell\source\repos\healthcare system\bin\Debug\net10.0\healthcare system.pdb
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.AssemblyInfo.cs
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.dll
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\refint\healthcare system.dll
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.pdb
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\healthcare system.genruntimeconfig.cache
+C:\Users\Dell\source\repos\healthcare system\obj\Debug\net10.0\ref\healthcare system.dll
