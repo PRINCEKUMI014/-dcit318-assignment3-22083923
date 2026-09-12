@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "A school's grading system/1.0.0": {
+        "runtime": {
+          "A school's grading system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A school's grading system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

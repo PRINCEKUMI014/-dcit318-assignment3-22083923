@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\A school's grading system\bin\Debug\net10.0\A school's grading system.exe
+C:\Users\Dell\source\repos\A school's grading system\bin\Debug\net10.0\A school's grading system.deps.json
+C:\Users\Dell\source\repos\A school's grading system\bin\Debug\net10.0\A school's grading system.runtimeconfig.json
+C:\Users\Dell\source\repos\A school's grading system\bin\Debug\net10.0\A school's grading system.dll
+C:\Users\Dell\source\repos\A school's grading system\bin\Debug\net10.0\A school's grading system.pdb
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.AssemblyInfo.cs
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.dll
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\refint\A school's grading system.dll
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.pdb
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\A school's grading system.genruntimeconfig.cache
+C:\Users\Dell\source\repos\A school's grading system\obj\Debug\net10.0\ref\A school's grading system.dll
